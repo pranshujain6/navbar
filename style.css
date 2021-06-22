@@ -1,0 +1,21 @@
+#parent {
+    background-color: darkgray; 
+    height: 70px;
+}
+#parent li{
+    margin-left:8%;
+    font-size: 30px;
+}
+.gallery:hover .galleryinner{
+    display: inline;
+    
+}
+.galleryinner {
+     display: none;   
+   
+}
+.galleryinner ul{
+    background-color: darkgray;
+}
+
+
